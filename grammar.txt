@@ -1,8 +1,8 @@
-i        | READ AND STORE AT POINTER (,)
-btw      | PRINT AT POINTER (.)
-not      | CELL-- (-)
-use      | CELL++ (+)
-notarch  | POINTER-- (<)
-arch     | POINTER++ (>)
-[        | START LOOP ([)
-]        | END LOOP (])
+i        | READ AND STORE AT POINTER 
+btw      | PRINT AT POINTER         
+not      | CELL-- 
+use      | CELL++ 
+notarch  | POINTER-- 
+arch     | POINTER++ 
+[        | START LOOP 
+]        | END LOOP 
