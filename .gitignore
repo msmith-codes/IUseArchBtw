@@ -1,15 +1,19 @@
 # CMake Ignores:
 CMakeLists.txt.user
 CMakeCache.txt
-CMakeFiles
-CMakeScripts
-Testing
+CMakeFiles/
+CMakeScripts/
+Testing/
 Makefile
 cmake_install.cmake
 install_manifest.txt
 compile_commands.json
 CTestTestfile.cmake
-_deps
+_deps/
+bin/
+
+# Editor Ignores:
+.vscode/
 
 # macOS Ignores:
 .DS_Store

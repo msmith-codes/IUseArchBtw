@@ -1,0 +1,17 @@
+use use
+arch use use use use use
+
+[
+    notarch use
+    arch not
+]
+
+use use use use
+use use use use
+
+[
+    notarch use use use use use use
+    arch not
+]
+
+notarch btw
